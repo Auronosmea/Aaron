@@ -1,0 +1,38 @@
+#netbeans ignore personal stuff
+nbproject/
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+
+
+# Executables
+
+*.out
+*.app
